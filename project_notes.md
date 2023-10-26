@@ -25,6 +25,7 @@
         - [ ] GET /resources/new
         - [ ] POST /resources/new
       - [ ] READ
+      - [ ] Set up factor
         - [ ] GET /resources (index or show all)
         - [ ] GET /resources/<parameter> (get 1)
         - [ ] GET /resources/<id / name parameter> (get 1)
